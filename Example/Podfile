@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XKAliyunIDCardOCR_Tests' do
+  pod 'XKAliyunIDCardOCR', :path => '../'
+  
+  
+end
